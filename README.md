@@ -1,5 +1,5 @@
 # Tableau-FDI-analysis
-In this repositories, we will explore the FDI dataset and analyse it from the perspective of a business.
+In this repository, we will explore the FDI dataset and analyse it from the perspective of a business.
 We shall look at various sectors to determine which sector will prove most beneficial to collaborate with, for the company.
 The purpose of the visualization is to understand the Foreign direct investment in India for the last 17 years from 2000-01 to 2016-17
 
